@@ -1,0 +1,20 @@
+{
+  "name": "Parcel-test",
+  "version": "1.0.0",
+  "description": "Setting up React Project with Parcel",
+  "repository": "https://github.com/jhyuk/Parcel-test.git",
+  "author": "jhyuk <akajhyuk@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
